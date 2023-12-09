@@ -1,0 +1,7 @@
+// create a complex aggregation
+// add github
+// add docker
+
+// documentation
+
+// create a notes on project what we learn about this project.
